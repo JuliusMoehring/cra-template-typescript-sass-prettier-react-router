@@ -1,0 +1,22 @@
+{
+    "name": "cra-template-typescript-sass-prettier-react-router",
+    "version": "0.0.1",
+    "keywords": [
+        "react",
+        "create-react-app",
+        "typescript",
+        "sass",
+        "prettier",
+        "react-router",
+        "storybook"
+    ],
+    "description": "Basic template using typescript, sass, prettier, react-router and storybook",
+    "license": "MIT",
+    "engines": {
+        "node": ">=14"
+    },
+    "files": [
+        "template",
+        "template.json"
+    ]
+}
