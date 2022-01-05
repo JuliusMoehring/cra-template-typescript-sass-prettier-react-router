@@ -6,6 +6,15 @@
             "@testing-library/user-event": "^13.2.1",
             "web-vitals": "^2.1.0"
         },
+        "author": {
+            "name": "Julius Möhring",
+            "email": "julius.moehring@welearncompany.com"
+        },
+        "repository": {
+            "type": "git",
+            "url": "https://github.com/JuliusMoehring/cra-template-typescript-sass-prettier-react-router",
+            "directory": "/"
+        },
         "eslintConfig": {
             "extends": ["react-app", "react-app/jest"]
         }
